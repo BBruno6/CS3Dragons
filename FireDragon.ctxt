@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FireDragon
+comment0.text=\r\n\ Creates\ and\ adds\ the\ required\ information\ in\ order\ to\ create\ a\ new\ FireDragon.\ \r\n\ \r\n\ @author\ Brandon\ Bruno\r\n
+comment1.params=
+comment1.target=FireDragon()
+comment1.text=\r\n\ Default\ constructor\ for\ class\ FireDragon\r\n
+comment2.params=owner
+comment2.target=FireDragon(java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ when\ making\ a\ new\ dragon.\r\n\ \r\n\ @param\ \ owner\ \ The\ owner\ of\ the\ dragon\r\n
+comment3.params=type\ owner\ nature\ name\ gender\ level\ exp
+comment3.target=FireDragon(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment3.text=\r\n\ Constructor\ for\ when\ reading\ the\ dragon\ from\ a\ file.\r\n\ \r\n\ @param\ \ type\ \ The\ type\ of\ dragon\r\n\ @param\ \ owner\ \ The\ owner\ of\ the\ dragon\r\n\ @param\ \ nature\ \ The\ nature\ of\ the\ dragon\r\n\ @param\ \ name\ \ The\ name\ of\ the\ dragon\r\n\ @param\ \ gender\ \ The\ sex\ of\ the\ dragon\r\n\ @param\ \ level\ \ The\ level\ of\ the\ dragon\r\n\ @param\ \ exp\ \ The\ amount\ of\ EXP\ the\ dragon\ has\r\n
+comment4.params=
+comment4.target=void\ decideNature()
+comment4.text=\r\n\ If\ the\ dragon\ is\ found\ without\ a\ nature,\ this\ method\ gives\ the\ dragon\ a\ nature.\ \r\n
+comment5.params=
+comment5.target=void\ decideName()
+comment5.text=\r\n\ If\ the\ dragon\ is\ found\ without\ a\ name,\ this\ method\ gives\ the\ dragon\ a\ name.\ \r\n
+comment6.params=
+comment6.target=void\ decideGender()
+comment6.text=\r\n\ If\ the\ dragon\ is\ found\ without\ a\ gender,\ this\ method\ gives\ the\ dragon\ a\ gender.\ \r\n\ Fire\ dragons\ have\ a\ 70%\ chance\ to\ be\ male\ and\ a\ 30%\ chance\ to\ be\ female.\ \r\n
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FileCheck
+comment0.text=\r\n\ This\ class\ pulls\ the\ dragons\ from\ the\ saved\ file.\ \r\n\r\n\ @author\ Brandon\ Bruno\r\n
+comment1.params=
+comment1.target=FileCheck()
+comment1.text=\r\n\ Constructor\ for\ class\ FileCheck\r\n
+comment2.params=
+comment2.target=boolean\ hasSave()
+comment2.text=\r\n\ Checks\ to\ see\ if\ the\ file\ exists\ in\ the\ project\ folder.\r\n\ \r\n\ @return\ \ true\ \ The\ file\ exists.\r\n\ @return\ \ false\ \ The\ file\ does\ not\ exist.\r\n
+comment3.params=
+comment3.target=void\ closeFile()
+comment3.text=\r\n\ After\ the\ read\ file\ has\ no\ more\ lines,\ closeFile()\ will\ close\ the\ file\ it\ needs\ to\ write\ to.\r\n
+comment4.params=
+comment4.target=void\ readData()
+comment4.text=\r\n\ Pulls\ the\ different\ dragons\ from\ the\ text\ file\ then\ adds\ them\ to\r\n\ the\ ArrayList\ dragons.\ \r\n
+numComments=5

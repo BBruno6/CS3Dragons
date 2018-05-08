@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ The\ dragon\ game\!\r\n\ \r\n\ @author\ Brandon\ Bruno\ and\ Willianz\ Dietz\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ starting\ driver\ for\ the\ program.\r\n\r\n\ @param\ args\ A\ parameter\r\n
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SaveGame
+comment0.text=\r\n\ This\ saves\ the\ ArrayList\ of\ dragons\ into\ a\ text\ document\ so\ they\ can\ be\ loaded\ later.\ \r\n\r\n\ @author\ Brandon\ Bruno\r\n
+comment1.params=dragons
+comment1.target=SaveGame(java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ class\ SaveGame\r\n\ \r\n\ @param\ \ dragons\ \ The\ ArrayList\ of\ dragons\r\n
+comment2.params=
+comment2.target=boolean\ hasSave()
+comment2.text=\r\n\ Checks\ to\ see\ if\ the\ file\ exists\ in\ the\ project\ folder.\r\n\ \r\n\ @return\ \ true\ \ The\ file\ exists.\r\n\ @return\ \ false\ \ The\ file\ does\ not\ exist.\r\n
+comment3.params=
+comment3.target=void\ closeFile()
+comment3.text=\r\n\ After\ the\ read\ file\ has\ no\ more\ lines,\ closeFile()\ will\ close\ the\ file\ it\ needs\ to\ write\ to.\r\n
+comment4.params=dragons
+comment4.target=void\ saveData(java.util.ArrayList)
+comment4.text=\r\n\ Saves\ the\ ArrayList\ of\ dragons\ into\ the\ text\ file.\r\n\ \r\n\ @param\ \ dragons\ \ The\ ArrayList\ of\ dragons\r\n
+numComments=5
