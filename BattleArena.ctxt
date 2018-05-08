@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BattleArena
+comment0.text=\r\n\ This\ class\ is\ going\ to\ create\ the\ arena\ basically\ and\ sets\ the\ environment\ from\r\n\ the\ past\ class.\ This\ also\ declares\ the\ boost\ so\ that\ the\ dragon\ has\ their\r\n\ stats\ boosted\ if\ they\ are\ in\ the\ same\ \r\n
+comment1.params=dragonName\ dragonType\ level\ exp\ location\ dmg\ health\ dragons
+comment1.target=BattleArena(java.lang.String,\ java.lang.String,\ int,\ double,\ int,\ int,\ int,\ java.util.ArrayList)
+comment1.text=\r\n\ BattleArena\ Constructor\r\n\r\n\ @param\ dragonName\ The\ name\ of\ the\ dragon\r\n\ @param\ dragonType\ The\ type\ of\ the\ dragon\r\n\ @param\ level\ The\ level\ of\ the\ dragon\r\n\ @param\ exp\ The\ exp\ of\ the\ dragon\r\n\ @param\ location\ The\ terrain\ the\ dragon\ will\ be\ fighting\ in\r\n\ @param\ dmg\ The\ damage\ the\ dragon\ will\ do\r\n\ @param\ health\ The\ health\ the\ dragon\ has\r\n
+comment2.params=location\ dragons
+comment2.target=void\ setLocation(int,\ java.util.ArrayList)
+comment2.text=\r\n\ Sets\ the\ location\ the\ arena\ will\ take\ place\ in.\r\n\r\n\ @param\ location\ The\ arena\ environment\r\n\ @param\ dragons\ The\ list\ of\ dragons\r\n
+numComments=3

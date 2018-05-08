@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ChoosePath
+comment1.params=name\ type\ level\ exp\ dragons
+comment1.target=ChoosePath(java.lang.String,\ java.lang.String,\ int,\ double,\ java.util.ArrayList)
+comment1.text=\r\n\ ChoosePath\ Constructor\r\n\r\n\ @param\ name\ The\ name\ of\ the\ dragon\r\n\ @param\ type\ The\ dragon's\ type\r\n\ @param\ level\ The\ dragon's\ level\r\n\ @param\ exp\ The\ experience\ the\ dragon\ has.\r\n\ @param\ dragons\ The\ list\ of\ dragons.\r\n
+comment2.params=dragons
+comment2.target=void\ routeMenu(java.util.ArrayList)
+comment2.text=\r\n\ Welcomes\ the\ player\ and\ creates\ a\ random\ route\ number,\ depending\ on\ that\ number\ it\r\n\ also\ choses\ the\ environment\ based\ off\ that\ route\ num\r\n\ \r\n\ @param\ dragons\ The\ list\ of\ dragons\ \r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Arena
+comment0.text=\r\n\ This\ starts\ the\ arena\ where\ the\ dragons\ level\ up.\r\n\ \r\n\ @author\ Brandon\ Bruno\r\n
+comment1.params=dragons
+comment1.target=Arena(java.util.ArrayList)
+comment1.text=\r\n\ Arena\ Constructor\r\n\r\n\ @param\ dragons\ The\ list\ of\ dragons\r\n
+comment2.params=dragons
+comment2.target=void\ arenaIntro(java.util.ArrayList)
+comment2.text=\r\n\ Starts\ the\ arena\ and\ tells\ the\ user\ to\ pick\ one\ of\ their\ dragons\ to\ use.\r\n\r\n\ @param\ dragons\ The\ list\ of\ dragons\r\n
+numComments=3
